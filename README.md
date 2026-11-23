@@ -1,6 +1,6 @@
 # 🤖 Robô de Cotação de Peças (RPA)
 
-Robô desenvolvido no **Rocketbot Studio** que consulta preços de autopeças no site da **Auto Peças Molina** e registra automaticamente os resultados em uma planilha Excel, eliminando tarefas manuais e repetitivas.
+Projeto de automação desenvolvido no **Rocketbot Studio** para consultar preços de autopeças no site da **Auto Peças Molina** e registrar automaticamente as informações em uma planilha Excel, reduzindo o trabalho manual e repetitivo.
 
 **Autor:** Victor Hugo
 
